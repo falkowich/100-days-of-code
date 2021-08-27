@@ -2,7 +2,7 @@
 
 ## Day 0: August 27, 2021
 
-**Planned Today**:
+**Planned Today**: Split models into endpoint modules.
 
 **Today's Progress**:
 
