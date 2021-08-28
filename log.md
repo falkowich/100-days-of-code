@@ -17,6 +17,19 @@ Split done [66e3bb52](https://github.com/falkowich/sorta-simple-fastapi-template
 Friday happiness at first, the split went as planned.  
 Then... pytest and async made me somwhat frustrated.. So that is a tomorrow problem :)
 
+### Day 1: August 28, 2021
+
+#### Planned Today
+
+Learn some more on pytest and tortoise-orm, and perhaps do some tests with auth user..
+
+#### Today's Progress
+
+
+#### Thoughts
+
+
+
 ## Link(s) to work
 
 - [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
