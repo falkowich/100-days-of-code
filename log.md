@@ -1,3 +1,5 @@
+# 100 Days Of Code - Log
+
 - [100 Days Of Code - Log](#100-days-of-code---log)
   - [Week one](#week-one)
     - [Day 0: August 27, 2021](#day-0-august-27-2021)
@@ -9,7 +11,6 @@
       - [Today's Progress](#todays-progress-1)
       - [Thoughts](#thoughts-1)
   - [Link(s) to work](#links-to-work)
-# 100 Days Of Code - Log
 
 ## Week one
 
@@ -36,10 +37,13 @@ Learn some more on pytest and tortoise-orm, and perhaps do some tests with auth 
 
 #### Today's Progress
 
+Finally some kind of progress with testing on auth. [edadad8](https://github.com/falkowich/sorta-simple-fastapi-template/commit/edadad8f565f02f6bece8633b8e3b2e9800f7881).  
+Got some async testing experience too, But that is really messy (for me) :)
 
 #### Thoughts
 
-
+[*Some days are unicorn and rainbows. Unfortunately, today it's been wildbeest and shitstorms!*](https://twitter.com/falkowich/status/1109083297886470144/photo/1)  
+I was almost going to throw in the gloves with pytest-async, httpx and tortoise-orm.. But things got better after a few hours..
 
 ## Link(s) to work
 
