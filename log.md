@@ -63,7 +63,7 @@ Merged api-tests in main, they are ugly.. But they are working.. sorta..
 [Merge pull request #8](https://github.com/falkowich/sorta-simple-fastapi-template/commit/b616e84c31f06592a0dcc62391ddd0f29cc896a0)
 #### Thoughts
 
-Today was a short session, almost only an hour. Some scary stuff happened today and it was good to do some codeing to clear thougts.  
+Today was a short session, almost only an hour. Some scary stuff happened today and it was good to do some coding to clear my thougts.  
 Testing is still hard to do for me, but slowely I perhaps can get the hang of it :)
 ## Link(s) to work
 
