@@ -10,6 +10,10 @@
       - [Planned Today](#planned-today-1)
       - [Today's Progress](#todays-progress-1)
       - [Thoughts](#thoughts-1)
+    - [Day 2: August 29, 2021](#day-2-august-29-2021)
+      - [Planned Today](#planned-today-2)
+      - [Today's Progress](#todays-progress-2)
+      - [Thoughts](#thoughts-2)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -44,6 +48,18 @@ Got some async testing experience too, But that is really messy (for me) :)
 
 [*Some days are unicorn and rainbows. Unfortunately, today it's been wildbeest and shitstorms!*](https://twitter.com/falkowich/status/1109083297886470144/photo/1)  
 I was almost going to throw in the gloves with pytest-async, httpx and tortoise-orm.. But things got better after a few hours..
+
+### Day 2: August 29, 2021
+
+#### Planned Today
+
+Continue to get coverage on auth.  
+Start getting coverage on manage.py  
+Then merge into main
+
+#### Today's Progress
+
+#### Thoughts
 
 ## Link(s) to work
 
