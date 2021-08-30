@@ -14,6 +14,10 @@
       - [Planned Today](#planned-today-2)
       - [Today's Progress](#todays-progress-2)
       - [Thoughts](#thoughts-2)
+    - [Day 3: August 30, 2021](#day-3-august-30-2021)
+      - [Planned Today](#planned-today-3)
+      - [Today's Progress](#todays-progress-3)
+      - [Thoughts](#thoughts-3)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -61,10 +65,24 @@ Then merge into main
 
 Merged api-tests in main, they are ugly.. But they are working.. sorta..  
 [Merge pull request #8](https://github.com/falkowich/sorta-simple-fastapi-template/commit/b616e84c31f06592a0dcc62391ddd0f29cc896a0)
+
 #### Thoughts
 
 Today was a short session, almost only an hour. Some scary stuff happened today and it was good to do some coding to clear my thougts.  
 Testing is still hard to do for me, but slowely I perhaps can get the hang of it :)
+
+### Day 3: August 30, 2021
+
+#### Planned Today
+
+Create a simple async cli script. Try to understand how to get codecov with pytest.
+
+#### Today's Progress
+
+
+#### Thoughts
+
+
 ## Link(s) to work
 
 - [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
