@@ -79,7 +79,8 @@ Create a simple async cli script. Try to understand how to get codecov with pyte
 
 #### Today's Progress
 
-Got some experience with pytest and cli testing..
+Got some experience with pytest and cli testing..  
+https://github.com/falkowich/cli-pytest-async-lab
 
 #### Thoughts
 
