@@ -18,6 +18,10 @@
       - [Planned Today](#planned-today-3)
       - [Today's Progress](#todays-progress-3)
       - [Thoughts](#thoughts-3)
+    - [Day 4: August 31, 2021](#day-4-august-31-2021)
+      - [Planned Today](#planned-today-4)
+      - [Today's Progress](#todays-progress-4)
+      - [Thoughts](#thoughts-4)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -86,6 +90,17 @@ https://github.com/falkowich/cli-pytest-async-lab
 
 Again, slow progress with pytest and cli scripts.  
 Lot's of googling and not so much coding :)
+
+### Day 4: August 31, 2021
+
+#### Planned Today
+
+Continue with pytest and cli scripts, and perhaps go into async testing.
+
+#### Today's Progress
+
+
+#### Thoughts
 
 ## Link(s) to work
 
