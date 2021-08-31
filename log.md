@@ -84,7 +84,7 @@ Create a simple async cli script. Try to understand how to get codecov with pyte
 #### Today's Progress
 
 Got some experience with pytest and cli testing..  
-https://github.com/falkowich/cli-pytest-async-lab
+[https://github.com/falkowich/cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
 #### Thoughts
 
@@ -95,13 +95,21 @@ Lot's of googling and not so much coding :)
 
 #### Planned Today
 
-Continue with pytest and cli scripts, and perhaps go into async testing.
+Continue with pytest and cli scripts, and perhaps go into async testing.  
+[https://github.com/falkowich/cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
 #### Today's Progress
 
+Got some more understanding with pytest and cli applications _argparse module_.  
+There is much more to know, but the basics I think got stuck :)
 
 #### Thoughts
+
+Well, every evening I fire up code I havn't lost so much tempo as if I was doing it only once a week.  
+So I guess that's a good thing. :)
 
 ## Link(s) to work
 
 - [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
+- [cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
+  
