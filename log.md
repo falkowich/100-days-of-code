@@ -22,6 +22,10 @@
       - [Planned Today](#planned-today-4)
       - [Today's Progress](#todays-progress-4)
       - [Thoughts](#thoughts-4)
+    - [Day 5: September 01, 2021](#day-5-september-01-2021)
+      - [Planned Today](#planned-today-5)
+      - [Today's Progress](#todays-progress-5)
+      - [Thoughts](#thoughts-5)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -107,6 +111,17 @@ There is much more to know, but the basics I think got stuck :)
 
 Well, every evening I fire up code I havn't lost so much tempo as if I was doing it only once a week.  
 So I guess that's a good thing. :)
+
+### Day 5: September 01, 2021
+
+#### Planned Today
+
+Try to start codecov on manage.py.. Try 3 :)
+
+#### Today's Progress
+
+
+#### Thoughts
 
 ## Link(s) to work
 
