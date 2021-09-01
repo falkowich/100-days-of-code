@@ -116,10 +116,12 @@ So I guess that's a good thing. :)
 
 #### Planned Today
 
-Try to start codecov on manage.py.. Try 3 :)
+Started codecov on manage.py. [PR](https://github.com/falkowich/sorta-simple-fastapi-template/pull/9)
 
 #### Today's Progress
 
+Finally some understanding with pytest-async and Tortoise-ORM.  
+It's really a can of worms when not used to async and pytest :)
 
 #### Thoughts
 
