@@ -129,7 +129,7 @@ It's really a can of worms when not used to async and pytest :)
 
 #### Thoughts
 
-Well.. Missed this, I did.. :)
+Missed this, I did.. :)
 
 ### Day 6: September 02, 2021
 
@@ -139,7 +139,7 @@ Se what's needed to get som more experience with static typing. Check out mypy a
 
 #### Today's Progress
 
-Well, nothing real. Only reading documentation and turorials.
+Nnothing real. Only reading documentation and turorials.
 
 #### Thoughts
 
