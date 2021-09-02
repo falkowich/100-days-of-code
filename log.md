@@ -26,6 +26,10 @@
       - [Planned Today](#planned-today-5)
       - [Today's Progress](#todays-progress-5)
       - [Thoughts](#thoughts-5)
+    - [Day 6: September 02, 2021](#day-6-september-02-2021)
+      - [Planned Today](#planned-today-6)
+      - [Today's Progress](#todays-progress-6)
+      - [Thoughts](#thoughts-6)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -124,6 +128,18 @@ Finally some understanding with pytest-async and Tortoise-ORM.
 It's really a can of worms when not used to async and pytest :)
 
 #### Thoughts
+
+Well.. Missed this, I did.. :)
+
+### Day 6: September 02, 2021
+
+#### Planned Today
+Se what's needed to get som more experience with static typing. Check out mypy and dig deeper in pydantic outside FastAPI.  
+
+#### Today's Progress
+
+#### Thoughts
+
 
 ## Link(s) to work
 
