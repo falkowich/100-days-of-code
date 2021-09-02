@@ -134,12 +134,17 @@ Well.. Missed this, I did.. :)
 ### Day 6: September 02, 2021
 
 #### Planned Today
+
 Se what's needed to get som more experience with static typing. Check out mypy and dig deeper in pydantic outside FastAPI.  
 
 #### Today's Progress
 
+Well, nothing real. Only reading documentation and turorials.
+
 #### Thoughts
 
+The normal (for me) non motivated aftereffect when finishing something planned.  
+Where there are so many projects to do, I think it's always hard to choose what to pick and focus on that.
 
 ## Link(s) to work
 
