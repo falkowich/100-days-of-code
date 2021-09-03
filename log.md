@@ -30,6 +30,11 @@
       - [Planned Today](#planned-today-6)
       - [Today's Progress](#todays-progress-6)
       - [Thoughts](#thoughts-6)
+  - [Week two](#week-two)
+    - [Day 7: September 03, 2021](#day-7-september-03-2021)
+      - [Planned Today](#planned-today-7)
+      - [Today's Progress](#todays-progress-7)
+      - [Thoughts](#thoughts-7)
   - [Link(s) to work](#links-to-work)
 
 ## Week one
@@ -145,6 +150,24 @@ Nnothing real. Only reading documentation and turorials.
 
 The normal (for me) non motivated aftereffect when finishing something planned.  
 Where there are so many projects to do, I think it's always hard to choose what to pick and focus on that.
+
+## Week two
+
+### Day 7: September 03, 2021
+
+#### Planned Today
+
+Getting an aurdino running and testing some basic stuff
+
+#### Today's Progress
+
+
+
+#### Thoughts
+
+
+
+
 
 ## Link(s) to work
 
