@@ -1,152 +1,146 @@
 # 100 Days Of Code - Log
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
+  - [Things](#things)
+    - [To test out](#to-test-out)
+    - [To learn more of](#to-learn-more-of)
+    - [To create](#to-create)
+    - [That I worked on when doing 100days_of_code](#that-i-worked-on-when-doing-100days_of_code)
   - [Week one](#week-one)
     - [Day 0: August 27, 2021](#day-0-august-27-2021)
-      - [Planned Today](#planned-today)
-      - [Today's Progress](#todays-progress)
-      - [Thoughts](#thoughts)
     - [Day 1: August 28, 2021](#day-1-august-28-2021)
-      - [Planned Today](#planned-today-1)
-      - [Today's Progress](#todays-progress-1)
-      - [Thoughts](#thoughts-1)
     - [Day 2: August 29, 2021](#day-2-august-29-2021)
-      - [Planned Today](#planned-today-2)
-      - [Today's Progress](#todays-progress-2)
-      - [Thoughts](#thoughts-2)
     - [Day 3: August 30, 2021](#day-3-august-30-2021)
-      - [Planned Today](#planned-today-3)
-      - [Today's Progress](#todays-progress-3)
-      - [Thoughts](#thoughts-3)
     - [Day 4: August 31, 2021](#day-4-august-31-2021)
-      - [Planned Today](#planned-today-4)
-      - [Today's Progress](#todays-progress-4)
-      - [Thoughts](#thoughts-4)
     - [Day 5: September 01, 2021](#day-5-september-01-2021)
-      - [Planned Today](#planned-today-5)
-      - [Today's Progress](#todays-progress-5)
-      - [Thoughts](#thoughts-5)
     - [Day 6: September 02, 2021](#day-6-september-02-2021)
-      - [Planned Today](#planned-today-6)
-      - [Today's Progress](#todays-progress-6)
-      - [Thoughts](#thoughts-6)
   - [Week two](#week-two)
     - [Day 7: September 03, 2021](#day-7-september-03-2021)
-      - [Planned Today](#planned-today-7)
-      - [Today's Progress](#todays-progress-7)
-      - [Thoughts](#thoughts-7)
-  - [Link(s) to work](#links-to-work)
+    - [Day 8: September 04, 2021](#day-8-september-04-2021)
+
+## Things
+
+### To test out
+
+### To learn more of
+
+### To create
+
+### That I worked on when doing 100days_of_code
+
+- [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
+- [cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
 ## Week one
 
 ### Day 0: August 27, 2021
 
-#### Planned Today
+**Planned Today**
 
 Split models into endpoint modules.
 
-#### Today's Progress
+**Today's Progress**
 
 Split done [66e3bb52](https://github.com/falkowich/sorta-simple-fastapi-template/commit/66e3bb52fbc5dfcd248053719fa70951e4e89149), started on moar-testing with pytest-async
 
-#### Thoughts
+**Thoughts**
 
 Friday happiness at first, the split went as planned.  
 Then... pytest and async made me somwhat frustrated.. So that is a tomorrow problem :)
 
 ### Day 1: August 28, 2021
 
-#### Planned Today
+**Planned Today**
 
 Learn some more on pytest and tortoise-orm, and perhaps do some tests with auth user..
 
-#### Today's Progress
+**Today's Progress**
 
 Finally some kind of progress with testing on auth. [edadad8](https://github.com/falkowich/sorta-simple-fastapi-template/commit/edadad8f565f02f6bece8633b8e3b2e9800f7881).  
 Got some async testing experience too, But that is really messy (for me) :)
 
-#### Thoughts
+**Thoughts**
 
 [*Some days are unicorn and rainbows. Unfortunately, today it's been wildbeest and shitstorms!*](https://twitter.com/falkowich/status/1109083297886470144/photo/1)  
 I was almost going to throw in the gloves with pytest-async, httpx and tortoise-orm.. But things got better after a few hours..
 
 ### Day 2: August 29, 2021
 
-#### Planned Today
+**Planned Today**
 
 Continue to get coverage on auth.  
 Start getting coverage on manage.py  
 Then merge into main
 
-#### Today's Progress
+**Today's Progress**
 
 Merged api-tests in main, they are ugly.. But they are working.. sorta..  
 [Merge pull request #8](https://github.com/falkowich/sorta-simple-fastapi-template/commit/b616e84c31f06592a0dcc62391ddd0f29cc896a0)
 
-#### Thoughts
+**Thoughts**
 
 Today was a short session, almost only an hour. Some scary stuff happened today and it was good to do some coding to clear my thougts.  
 Testing is still hard to do for me, but slowely I perhaps can get the hang of it :)
 
 ### Day 3: August 30, 2021
 
-#### Planned Today
+**Planned Today**
 
 Create a simple async cli script. Try to understand how to get codecov with pytest.
 
-#### Today's Progress
+**Today's Progress**
 
 Got some experience with pytest and cli testing..  
 [https://github.com/falkowich/cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
-#### Thoughts
+**Thoughts**
 
 Again, slow progress with pytest and cli scripts.  
 Lot's of googling and not so much coding :)
 
 ### Day 4: August 31, 2021
 
-#### Planned Today
+**Planned Today**
 
 Continue with pytest and cli scripts, and perhaps go into async testing.  
 [https://github.com/falkowich/cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
-#### Today's Progress
+**Today's Progress**
 
 Got some more understanding with pytest and cli applications _argparse module_.  
 There is much more to know, but the basics I think got stuck :)
 
-#### Thoughts
+**Thoughts**
 
 Well, every evening I fire up code I havn't lost so much tempo as if I was doing it only once a week.  
 So I guess that's a good thing. :)
 
 ### Day 5: September 01, 2021
 
-#### Planned Today
+**Planned Today**
 
 Started codecov on manage.py. [PR](https://github.com/falkowich/sorta-simple-fastapi-template/pull/9)
 
-#### Today's Progress
+**Today's Progress**
 
 Finally some understanding with pytest-async and Tortoise-ORM.  
 It's really a can of worms when not used to async and pytest :)
 
-#### Thoughts
+**Thoughts**
 
 Missed this, I did.. :)
 
 ### Day 6: September 02, 2021
 
-#### Planned Today
+**Planned Today**
 
 Se what's needed to get som more experience with static typing. Check out mypy and dig deeper in pydantic outside FastAPI.  
 
-#### Today's Progress
+**Today's Progress**
 
 Nnothing real. Only reading documentation and turorials.
 
-#### Thoughts
+**Thoughts**
 
 The normal (for me) non motivated aftereffect when finishing something planned.  
 Where there are so many projects to do, I think it's always hard to choose what to pick and focus on that.
@@ -155,22 +149,27 @@ Where there are so many projects to do, I think it's always hard to choose what 
 
 ### Day 7: September 03, 2021
 
-#### Planned Today
+**Planned Today**
 
-Getting an aurdino running and testing some basic stuff
+Getting an arduino running and testing some basic stuff
 
-#### Today's Progress
+**Today's Progress**
 
+Got things connected, a led to blink and some arduino code written.
 
+**Thoughts**
 
-#### Thoughts
+It was not really my cup of tee I think.  Going to order some things to a RPi instead and see where that leads..
 
+### Day 8: September 04, 2021
 
+**Planned Today**
 
+Getting started with a new project, that uses the template I been messing with the last week.
 
-
-## Link(s) to work
-
-- [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
-- [cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
+- Trying to get some order out of the chaos of thougts into some plans.
+- Deciding if this is a doable thing.
   
+**Today's Progress**
+
+**Thoughts**
