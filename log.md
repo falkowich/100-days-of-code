@@ -4,7 +4,7 @@
   - [Things I want to..](#things-i-want-to)
     - [test out](#test-out)
     - [learn more of](#learn-more-of)
-    - [create](#create)
+    - [work more on](#work-more-on)
   - [100days_of_code repos](#100days_of_code-repos)
   - [Week one](#week-one)
     - [Day 0: August 27, 2021](#day-0-august-27-2021)
@@ -22,9 +22,18 @@
 
 ### test out
 
+- [ ] [Anvil](https://anvil.works/) - Full stack web apps with nothing but Python.
+- [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
+
 ### learn more of
 
-### create
+- [ ] [Vue.js](https://vuejs.org/) - Not only the 'helloWorld' example.
+
+### work more on
+
+- [pyIse](https://github.com/falkowich/ise) - Python module to manage Cisco ISE via the REST API.
+
+Moar here, soon :tm:
 
 ## 100days_of_code repos
 
