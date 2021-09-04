@@ -28,6 +28,7 @@
 ### learn more of
 
 - [ ] [Vue.js](https://vuejs.org/) - Not only the 'helloWorld' example.
+- [ ] Start designing code before diving in to coding - [A great guide by ArjanCodes](https://pages.arjancodes.com/designguide)
 
 ### work more on
 
