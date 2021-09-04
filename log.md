@@ -23,16 +23,16 @@
 ### test out
 
 - [ ] [Anvil](https://anvil.works/) - Full stack web apps with nothing but Python.
-- [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
+- [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript.
 
 ### learn more of
 
 - [ ] [Vue.js](https://vuejs.org/) - Not only the 'helloWorld' example.
-- [ ] Start designing code before diving in to coding - [A great guide by ArjanCodes](https://pages.arjancodes.com/designguide)
+- [ ] [Software design guide - ArjanCodes](https://pages.arjancodes.com/designguide) - Start designing code before diving in to coding.
 
 ### work more on
 
-- [pyIse](https://github.com/falkowich/ise) - Python module to manage Cisco ISE via the REST API.
+- [pyise](https://github.com/falkowich/ise) - Python module to manage Cisco ISE via the REST API.
 
 Moar here, soon :tm:
 
@@ -184,4 +184,11 @@ Getting started with a new project, that uses the template I been messing with t
   
 **Today's Progress**
 
+Refactored an repo » [THIS](https://www.youtube.com/watch?v=mGGp_2gc5PY)  
+Got selenium grid running in docker.  
+Got python to use selenium-remote.  
+
 **Thoughts**
+
+Really fun to get everything up and running after some near misses.  
+Continuing with this tomorrow. And perhaps create a public repo with "non sensitive" data.
