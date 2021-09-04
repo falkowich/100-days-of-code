@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
-  - [Things](#things)
-    - [To test out](#to-test-out)
-    - [To learn more of](#to-learn-more-of)
-    - [To create](#to-create)
-    - [That I worked on when doing 100days_of_code](#that-i-worked-on-when-doing-100days_of_code)
+  - [Things I want to..](#things-i-want-to)
+    - [test out](#test-out)
+    - [learn more of](#learn-more-of)
+    - [create](#create)
+  - [100days_of_code repos](#100days_of_code-repos)
   - [Week one](#week-one)
     - [Day 0: August 27, 2021](#day-0-august-27-2021)
     - [Day 1: August 28, 2021](#day-1-august-28-2021)
@@ -18,15 +18,17 @@
     - [Day 7: September 03, 2021](#day-7-september-03-2021)
     - [Day 8: September 04, 2021](#day-8-september-04-2021)
 
-## Things
+## Things I want to..
 
-### To test out
+### test out
 
-### To learn more of
+### learn more of
 
-### To create
+### create
 
-### That I worked on when doing 100days_of_code
+## 100days_of_code repos
+
+Public things that I tried out and worked with when doing the "challange" 100days of code.
 
 - [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
 - [cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
