@@ -202,5 +202,9 @@ Split a huge messt module into smaller files.
   
 **Today's Progress**
 
+Instead of doing as planned, I implemented @click cli functions.
 
 **Thoughts**
+
+@click was really easy to use.  
+Everything felt logical, and tomorrow.. Doing the modulesplit :)
