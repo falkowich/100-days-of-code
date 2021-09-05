@@ -17,6 +17,7 @@
   - [Week two](#week-two)
     - [Day 7: September 03, 2021](#day-7-september-03-2021)
     - [Day 8: September 04, 2021](#day-8-september-04-2021)
+    - [Day 9: September 05, 2021](#day-9-september-05-2021)
 
 ## Things I want to..
 
@@ -192,3 +193,14 @@ Got python to use selenium-remote.
 
 Really fun to get everything up and running after some near misses.  
 Continuing with this tomorrow. And perhaps create a public repo with "non sensitive" data.
+
+### Day 9: September 05, 2021
+
+**Planned Today**
+
+Split a huge messt module into smaller files.
+  
+**Today's Progress**
+
+
+**Thoughts**
