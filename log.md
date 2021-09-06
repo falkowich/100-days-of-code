@@ -218,6 +218,9 @@ Split a huge messt module into smaller files. DO IT! :)
   
 **Today's Progress**
 
-
+Got it splitted up to smaller files.
 
 **Thoughts**
+
+The module is a mess, but atleast it is somewhat easier to read now.  
+Perhaps it would be better to create a class, but that's for another day..
