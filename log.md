@@ -18,6 +18,7 @@
     - [Day 7: September 03, 2021](#day-7-september-03-2021)
     - [Day 8: September 04, 2021](#day-8-september-04-2021)
     - [Day 9: September 05, 2021](#day-9-september-05-2021)
+    - [Day 10: September 06, 2021](#day-10-september-06-2021)
 
 ## Things I want to..
 
@@ -208,3 +209,15 @@ Instead of doing as planned, I implemented @click cli functions.
 
 @click was really easy to use.  
 Everything felt logical, and tomorrow.. Doing the modulesplit :)
+
+### Day 10: September 06, 2021
+
+**Planned Today**
+
+Split a huge messt module into smaller files. DO IT! :)
+  
+**Today's Progress**
+
+
+
+**Thoughts**
