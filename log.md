@@ -19,6 +19,7 @@
     - [Day 8: September 04, 2021](#day-8-september-04-2021)
     - [Day 9: September 05, 2021](#day-9-september-05-2021)
     - [Day 10: September 06, 2021](#day-10-september-06-2021)
+    - [Day 11: September 07, 2021](#day-11-september-07-2021)
 
 ## Things I want to..
 
@@ -224,3 +225,16 @@ Got it splitted up to smaller files.
 
 The module is a mess, but atleast it is somewhat easier to read now.  
 Perhaps it would be better to create a class, but that's for another day..
+
+### Day 11: September 07, 2021
+
+**Planned Today**
+
+Continue cleanup of module.  
+Perhaps look into doing a class..  
+
+**Today's Progress**
+
+
+**Thoughts**
+
