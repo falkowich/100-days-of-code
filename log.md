@@ -235,6 +235,8 @@ Perhaps look into doing a class..
 
 **Today's Progress**
 
+N/A real coding..
 
 **Thoughts**
 
+Tomorrow perhaps taking action of what's been learnded
