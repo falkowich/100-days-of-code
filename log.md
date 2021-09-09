@@ -281,4 +281,9 @@ More classes and pydantic
 
 **Today's Progress**
 
+Fixed the scraping in pydantic classes.
+
 **Thoughts**
+
+Today everything went really good.  
+Pure fun to do something that isn't work related :)
