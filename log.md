@@ -20,6 +20,9 @@
     - [Day 9: September 05, 2021](#day-9-september-05-2021)
     - [Day 10: September 06, 2021](#day-10-september-06-2021)
     - [Day 11: September 07, 2021](#day-11-september-07-2021)
+    - [Day 12: September 07, 2021](#day-12-september-07-2021)
+    - [Day 13: September 08, 2021](#day-13-september-08-2021)
+    - [Day 14: September 09, 2021](#day-14-september-09-2021)
 
 ## Things I want to..
 
@@ -240,3 +243,42 @@ N/A real coding..
 **Thoughts**
 
 Tomorrow perhaps taking action of what's been learnded
+
+### Day 12: September 07, 2021
+
+**Planned Today**
+
+Continue cleanup of module.  
+Perhaps look into doing a class..  
+
+**Today's Progress**
+
+N/A real coding..
+
+**Thoughts**
+
+Tomorrow perhaps taking action of what's been learnded
+
+### Day 13: September 08, 2021
+
+**Planned Today**
+
+Pydantic learning
+
+**Today's Progress**
+
+Some testing with pydantic
+
+**Thoughts**
+
+Perhaps this time it stuck :)
+
+### Day 14: September 09, 2021
+
+**Planned Today**
+
+More classes and pydantic
+
+**Today's Progress**
+
+**Thoughts**
