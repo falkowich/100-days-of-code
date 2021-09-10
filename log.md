@@ -301,9 +301,9 @@ Starting to use pydantic classes to push to api (Mockoon)
 **Today's Progress**
 
 POST serialized pydantic json to mockoon api.  
-Tried out loguru for the fist time. Really easy to get running and it seems to have sane dafaults
+Tried out [loguru](https://github.com/Delgan/loguru) for the fist time. Really easy to get running and it seems to have sane dafaults
 
 **Thoughts**
 
 Finally FRIDAY!  
-After playing some Minecraft with daughter[1], the weekend ended with a fine whiskey and few hours of code
+After playing Minecraft with daughter[1], the weekend ended with a fine whiskey and few hours of code
