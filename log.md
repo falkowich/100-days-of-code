@@ -22,7 +22,9 @@
     - [Day 11: September 07, 2021](#day-11-september-07-2021)
     - [Day 12: September 07, 2021](#day-12-september-07-2021)
     - [Day 13: September 08, 2021](#day-13-september-08-2021)
+  - [Week 2](#week-2)
     - [Day 14: September 09, 2021](#day-14-september-09-2021)
+    - [Day 15: September 10, 2021](#day-15-september-10-2021)
 
 ## Things I want to..
 
@@ -273,6 +275,8 @@ Some testing with pydantic
 
 Perhaps this time it stuck :)
 
+## Week 2
+
 ### Day 14: September 09, 2021
 
 **Planned Today**
@@ -287,3 +291,13 @@ Fixed the scraping in pydantic classes.
 
 Today everything went really good.  
 Pure fun to do something that isn't work related :)
+
+### Day 15: September 10, 2021
+
+**Planned Today**
+
+Starting to use pydantic classes to push to api (Mockoon)
+
+**Today's Progress**
+
+**Thoughts**
