@@ -6,7 +6,7 @@
     - [learn more of](#learn-more-of)
     - [work more on](#work-more-on)
   - [100days_of_code repos](#100days_of_code-repos)
-  - [Week one](#week-one)
+  - [Week 1](#week-1)
     - [Day 0: August 27, 2021](#day-0-august-27-2021)
     - [Day 1: August 28, 2021](#day-1-august-28-2021)
     - [Day 2: August 29, 2021](#day-2-august-29-2021)
@@ -14,7 +14,7 @@
     - [Day 4: August 31, 2021](#day-4-august-31-2021)
     - [Day 5: September 01, 2021](#day-5-september-01-2021)
     - [Day 6: September 02, 2021](#day-6-september-02-2021)
-  - [Week two](#week-two)
+  - [Week 2](#week-2)
     - [Day 7: September 03, 2021](#day-7-september-03-2021)
     - [Day 8: September 04, 2021](#day-8-september-04-2021)
     - [Day 9: September 05, 2021](#day-9-september-05-2021)
@@ -22,7 +22,7 @@
     - [Day 11: September 07, 2021](#day-11-september-07-2021)
     - [Day 12: September 07, 2021](#day-12-september-07-2021)
     - [Day 13: September 08, 2021](#day-13-september-08-2021)
-  - [Week 2](#week-2)
+  - [Week 3](#week-3)
     - [Day 14: September 09, 2021](#day-14-september-09-2021)
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
 
@@ -51,7 +51,7 @@ Public things that I tried out and worked with when doing the "challange" 100day
 - [Sorta Simple Fastapi Template](https://github.com/falkowich/sorta-simple-fastapi-template)
 - [cli-pytest-async-lab](https://github.com/falkowich/cli-pytest-async-lab)
 
-## Week one
+## Week 1
 
 ### Day 0: August 27, 2021
 
@@ -165,7 +165,7 @@ Nnothing real. Only reading documentation and turorials.
 The normal (for me) non motivated aftereffect when finishing something planned.  
 Where there are so many projects to do, I think it's always hard to choose what to pick and focus on that.
 
-## Week two
+## Week 2
 
 ### Day 7: September 03, 2021
 
@@ -275,7 +275,7 @@ Some testing with pydantic
 
 Perhaps this time it stuck :)
 
-## Week 2
+## Week 3
 
 ### Day 14: September 09, 2021
 
@@ -306,5 +306,4 @@ Tried out loguru for the fist time. Really easy to get running and it seems to h
 **Thoughts**
 
 Finally FRIDAY!  
-A good whiskey and some code is a greate way to end the workweekend.  
-After playing some Minecraft with daughter[1]
+After playing some Minecraft with daughter[1], the weekend ended with a fine whiskey and few hours of code
