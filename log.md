@@ -317,4 +317,10 @@ Continue with API that stores the scraped data.
 
 **Today's Progress**
 
+Some skeleton building with tortiose models and pydantic schemas.
+
 **Thoughts**
+
+Tired as .... today. Nothing really was created unless models count :)  
+Now, sleep. And hopefully less tired tomorrow.
+
