@@ -25,6 +25,7 @@
   - [Week 3](#week-3)
     - [Day 14: September 09, 2021](#day-14-september-09-2021)
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
+    - [Day 16: September 11, 2021](#day-16-september-11-2021)
 
 ## Things I want to..
 
@@ -307,3 +308,13 @@ Tried out [loguru](https://github.com/Delgan/loguru) for the fist time. Really e
 
 Finally FRIDAY!  
 After playing Minecraft with daughter[1], the weekend ended with a fine whiskey and few hours of code
+
+### Day 16: September 11, 2021
+
+**Planned Today**
+
+Continue with API that stores the scraped data.
+
+**Today's Progress**
+
+**Thoughts**
