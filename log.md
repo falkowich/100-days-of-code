@@ -26,6 +26,7 @@
     - [Day 14: September 09, 2021](#day-14-september-09-2021)
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
     - [Day 16: September 11, 2021](#day-16-september-11-2021)
+    - [Day 17: September 12, 2021](#day-17-september-12-2021)
 
 ## Things I want to..
 
@@ -324,3 +325,19 @@ Some skeleton building with tortiose models and pydantic schemas.
 Tired as .... today. Nothing really was created unless models count :)  
 Now, sleep. And hopefully less tired tomorrow.
 
+### Day 17: September 12, 2021
+
+**Planned Today**
+
+Continue with API that stores the scraped data.
+
+**Today's Progress**
+
+NaN, only learning and reading up on "stuff"
+
+**Thoughts**
+
+Again, tired ad ....  
+Instead of creating, I am getting stuck at trying to understand and learning to "do right".  
+But why not start, and learn while doing.  
+Well, tomorrow it's a new week.
