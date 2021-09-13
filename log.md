@@ -27,6 +27,7 @@
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
     - [Day 16: September 11, 2021](#day-16-september-11-2021)
     - [Day 17: September 12, 2021](#day-17-september-12-2021)
+    - [Day 18: September 13, 2021](#day-18-september-13-2021)
 
 ## Things I want to..
 
@@ -337,7 +338,18 @@ NaN, only learning and reading up on "stuff"
 
 **Thoughts**
 
-Again, tired ad ....  
+Again, tired as ....  
 Instead of creating, I am getting stuck at trying to understand and learning to "do right".  
 But why not start, and learn while doing.  
 Well, tomorrow it's a new week.
+
+### Day 18: September 13, 2021
+
+**Planned Today**
+
+Continue with API that stores the scraped data. Take III
+
+**Today's Progress**
+
+
+**Thoughts**
