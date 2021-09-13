@@ -351,5 +351,24 @@ Continue with API that stores the scraped data. Take III
 
 **Today's Progress**
 
+Started with post to get the whole json from frontend.  
+Refactored a few modules and splitted into more logical files.
+Found this, and it will work beq the json is rather huge, and is behind an jwt token. So only the frontend script can push to that endpoint.
+
+```python
+from fastapi import Body, FastAPI
+
+app = FastAPI()
+
+
+@app.post('/test')
+async def update_item(
+        payload: dict = Body(...)
+):
+    return payload
+```
 
 **Thoughts**
+
+Today the fun came back, and I got stuff done.
+Tomorrow things getting put into pydantic classes.. I think :)
