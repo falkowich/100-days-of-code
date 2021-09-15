@@ -391,6 +391,8 @@ Get things in to the db.
 
 **Today's Progress**
 
+One hour of getting a huge dict into pydantic objects to prepare db insertion.
 
 **Thoughts**
 
+It's a pretty strange(huge) json object that is the payload, and that comes with new challanges.  
