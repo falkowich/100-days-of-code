@@ -27,7 +27,10 @@
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
     - [Day 16: September 11, 2021](#day-16-september-11-2021)
     - [Day 17: September 12, 2021](#day-17-september-12-2021)
+  - [Week 3](#week-3-1)
     - [Day 18: September 13, 2021](#day-18-september-13-2021)
+    - [Day 19: September 14, 2021](#day-19-september-14-2021)
+    - [Day 20: September 13, 2021](#day-20-september-13-2021)
 
 ## Things I want to..
 
@@ -343,6 +346,7 @@ Instead of creating, I am getting stuck at trying to understand and learning to 
 But why not start, and learn while doing.  
 Well, tomorrow it's a new week.
 
+## Week 3
 ### Day 18: September 13, 2021
 
 **Planned Today**
@@ -372,3 +376,21 @@ async def update_item(
 
 Today the fun came back, and I got stuff done.
 Tomorrow things getting put into pydantic classes.. I think :)
+
+### Day 19: September 14, 2021
+
+**Planned Today**
+
+N/A - Worked all night with ...work stuff...
+
+### Day 20: September 13, 2021
+
+**Planned Today**
+
+Get things in to the db.
+
+**Today's Progress**
+
+
+**Thoughts**
+
