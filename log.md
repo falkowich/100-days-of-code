@@ -27,10 +27,13 @@
     - [Day 15: September 10, 2021](#day-15-september-10-2021)
     - [Day 16: September 11, 2021](#day-16-september-11-2021)
     - [Day 17: September 12, 2021](#day-17-september-12-2021)
-  - [Week 3](#week-3-1)
     - [Day 18: September 13, 2021](#day-18-september-13-2021)
     - [Day 19: September 14, 2021](#day-19-september-14-2021)
-    - [Day 20: September 13, 2021](#day-20-september-13-2021)
+    - [Day 20: September 15, 2021](#day-20-september-15-2021)
+  - [Week 4](#week-4)
+    - [Day 21: September 16, 2021](#day-21-september-16-2021)
+    - [Day 22: September 17, 2021](#day-22-september-17-2021)
+    - [Day 23: September 18, 2021](#day-23-september-18-2021)
 
 ## Things I want to..
 
@@ -346,7 +349,6 @@ Instead of creating, I am getting stuck at trying to understand and learning to 
 But why not start, and learn while doing.  
 Well, tomorrow it's a new week.
 
-## Week 3
 ### Day 18: September 13, 2021
 
 **Planned Today**
@@ -383,7 +385,7 @@ Tomorrow things getting put into pydantic classes.. I think :)
 
 N/A - Worked all night with ...work stuff...
 
-### Day 20: September 13, 2021
+### Day 20: September 15, 2021
 
 **Planned Today**
 
@@ -395,4 +397,48 @@ One hour of getting a huge dict into pydantic objects to prepare db insertion.
 
 **Thoughts**
 
-It's a pretty strange(huge) json object that is the payload, and that comes with new challanges.  
+It's a pretty strange(huge) json object that is the payload, and that comes with new challanges.
+
+## Week 4
+
+### Day 21: September 16, 2021
+
+**Planned Today**
+
+Get things in to the db. cont...
+
+**Today's Progress**
+
+Good progress with getting pydantic validated objects written to db.
+
+**Thoughts**
+
+With some good music, things are happily moving along..
+
+### Day 22: September 17, 2021
+
+**Planned Today**
+
+Check if data is inserted into db, then update.
+
+**Today's Progress**
+
+TBD
+
+**Thoughts**
+
+TBD
+
+### Day 23: September 18, 2021
+
+**Planned Today**
+
+Create get single object with children.
+
+**Today's Progress**
+
+TBD
+
+**Thoughts**
+
+TBD
