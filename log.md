@@ -423,11 +423,12 @@ Check if data is inserted into db, then update.
 
 **Today's Progress**
 
-TBD
+Started to create a diff function for new posts
 
 **Thoughts**
 
-TBD
+Sadly work until 22, then whiskey and music when coding..  
+Now at 00.25 logic is broekn :)
 
 ### Day 23: September 18, 2021
 
