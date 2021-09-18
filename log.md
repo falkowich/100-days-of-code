@@ -438,8 +438,11 @@ Create get single object with children.
 
 **Today's Progress**
 
-TBD
+insert or update if exist function.  
+started the get all and "id" function
 
 **Thoughts**
 
-TBD
+When things goes as planned, writing code is really relaxing.  
+The opposite of cybersecurity :)  
+And now some time familytime.. The best times
