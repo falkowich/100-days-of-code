@@ -34,6 +34,7 @@
     - [Day 21: September 16, 2021](#day-21-september-16-2021)
     - [Day 22: September 17, 2021](#day-22-september-17-2021)
     - [Day 23: September 18, 2021](#day-23-september-18-2021)
+    - [Day 24: September 19, 2021](#day-24-september-19-2021)
 
 ## Things I want to..
 
@@ -446,3 +447,17 @@ started the get all and "id" function
 When things goes as planned, writing code is really relaxing.  
 The opposite of cybersecurity :)  
 And now some time familytime.. The best times
+
+### Day 24: September 19, 2021
+
+**Planned Today**
+
+Clean up code and perhaps do a test deployment
+
+**Today's Progress**
+
+Code cleanup and test deployment :)
+
+**Thoughts**
+
+Good music and a great time..
