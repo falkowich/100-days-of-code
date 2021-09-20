@@ -35,6 +35,7 @@
     - [Day 22: September 17, 2021](#day-22-september-17-2021)
     - [Day 23: September 18, 2021](#day-23-september-18-2021)
     - [Day 24: September 19, 2021](#day-24-september-19-2021)
+    - [Day 25: September 20, 2021](#day-25-september-20-2021)
 
 ## Things I want to..
 
@@ -461,3 +462,17 @@ Code cleanup and test deployment :)
 **Thoughts**
 
 Good music and a great time..
+
+### Day 25: September 20, 2021
+
+**Planned Today**
+
+Clean output.
+
+**Today's Progress**
+
+Output cleaned
+
+**Thoughts**
+
+Only one hour today,, But still, things was done :)
