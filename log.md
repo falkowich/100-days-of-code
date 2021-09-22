@@ -45,6 +45,7 @@
 
 - [ ] [Anvil](https://anvil.works/) - Full stack web apps with nothing but Python.
 - [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript.
+- [ ] Ineractive debugging in vscode into docker dev.
 
 ### learn more of
 
