@@ -503,7 +503,9 @@ Put swagger and rest of api behind jwt token login.
 
 **Today's Progress**
 
-
+Did a workaround to make a fast "deployment"
 
 **Thoughts**
 
+First fastapi deployment with traefik and postgresql.  
+For a friend. Nothing big :)
