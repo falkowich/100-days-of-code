@@ -36,6 +36,8 @@
     - [Day 23: September 18, 2021](#day-23-september-18-2021)
     - [Day 24: September 19, 2021](#day-24-september-19-2021)
     - [Day 25: September 20, 2021](#day-25-september-20-2021)
+    - [Day 26: September 21, 2021](#day-26-september-21-2021)
+    - [Day 27: September 22, 2021](#day-27-september-22-2021)
 
 ## Things I want to..
 
@@ -476,3 +478,32 @@ Output cleaned
 **Thoughts**
 
 Only one hour today,, But still, things was done :)
+
+### Day 26: September 21, 2021
+
+**Planned Today**
+
+Dockerize the scraping script with
+
+**Today's Progress**
+
+As planned :)
+Using ofelia as scheduler in docker.
+
+**Thoughts**
+
+A lonely hour again. Things are really slow for the moment.  
+Work is bringing me down a bit..
+
+### Day 27: September 22, 2021
+
+**Planned Today**
+
+Put swagger and rest of api behind jwt token login.
+
+**Today's Progress**
+
+
+
+**Thoughts**
+
