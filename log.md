@@ -38,6 +38,8 @@
     - [Day 25: September 20, 2021](#day-25-september-20-2021)
     - [Day 26: September 21, 2021](#day-26-september-21-2021)
     - [Day 27: September 22, 2021](#day-27-september-22-2021)
+  - [Week 5](#week-5)
+    - [Day 28: September 23, 2021](#day-28-september-23-2021)
 
 ## Things I want to..
 
@@ -45,7 +47,7 @@
 
 - [ ] [Anvil](https://anvil.works/) - Full stack web apps with nothing but Python.
 - [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript.
-- [ ] Ineractive debugging in vscode into docker dev.
+- [x] Ineractive debugging in vscode into docker dev » [here](#day-28-september-23-2021))
 
 ### learn more of
 
@@ -510,3 +512,20 @@ Did a workaround to make a fast "deployment"
 
 First fastapi deployment with traefik and postgresql.  
 For a friend. Nothing big :)
+
+## Week 5
+
+### Day 28: September 23, 2021
+
+**Planned Today**
+
+Try to get debugging to work inside docker container with vscode
+
+**Today's Progress**
+
+Got it working with a simple "main.py" fastapi file.
+
+**Thoughts**
+
+For the moment more trouble than it's worth for me.  
+Logging and printing is enough for the moment :)
