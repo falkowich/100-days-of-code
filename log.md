@@ -40,6 +40,9 @@
     - [Day 27: September 22, 2021](#day-27-september-22-2021)
   - [Week 5](#week-5)
     - [Day 28: September 23, 2021](#day-28-september-23-2021)
+    - [Day 29: September 24, 2021](#day-29-september-24-2021)
+    - [Day 30: September 25, 2021](#day-30-september-25-2021)
+    - [Day 31: September 26, 2021](#day-31-september-26-2021)
 
 ## Things I want to..
 
@@ -529,3 +532,47 @@ Got it working with a simple "main.py" fastapi file.
 
 For the moment more trouble than it's worth for me.  
 Logging and printing is enough for the moment :)
+
+### Day 29: September 24, 2021
+
+**Planned Today**
+
+Fixing docker implementation of the scraper.
+
+**Today's Progress**
+
+Ofelia borked out when I put the logfile in /tmp/scraper.log  
+So this is now fixed
+
+**Thoughts**
+
+Some fixes, is always nice
+
+### Day 30: September 25, 2021
+
+**Planned Today**
+
+Nothing special planned
+
+**Today's Progress**
+
+Sadly going back to work stuff, after work time..
+
+**Thoughts**
+
+It's really easy to pick up things that is work related when stressed out..  
+I will try to do less of workstuff on this "challange"
+
+### Day 31: September 26, 2021
+
+**Planned Today**
+
+Fix sorting of fastapi output.
+
+**Today's Progress**
+
+I think that is working now, and made a config file with pydantic on the scraper.
+
+**Thoughts**
+
+Fun with some coding outside work again :)
