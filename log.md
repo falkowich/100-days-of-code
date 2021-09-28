@@ -43,6 +43,8 @@
     - [Day 29: September 24, 2021](#day-29-september-24-2021)
     - [Day 30: September 25, 2021](#day-30-september-25-2021)
     - [Day 31: September 26, 2021](#day-31-september-26-2021)
+    - [Day 32: September 27, 2021](#day-32-september-27-2021)
+    - [Day 33: September 28, 2021](#day-33-september-28-2021)
 
 ## Things I want to..
 
@@ -576,3 +578,31 @@ I think that is working now, and made a config file with pydantic on the scraper
 **Thoughts**
 
 Fun with some coding outside work again :)
+
+### Day 32: September 27, 2021
+
+**Planned Today**
+
+Fix sorting of fastapi output. Again
+
+**Today's Progress**
+
+Nothing to write home about..
+
+**Thoughts**
+
+Mental note to self. Default sorting in SLQ isn't a thing..
+
+### Day 33: September 28, 2021
+
+**Planned Today**
+
+Fix sorting of fastapi output. Cont.
+
+**Today's Progress**
+
+Ouput is finally sorted.
+
+**Thoughts**
+
+Finally, a rewrite of the output. With new pydantic ogjects and order_by in tortoise-orm
