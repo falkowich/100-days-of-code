@@ -634,6 +634,9 @@ Time to renew work on ise library
 
 **Today's Progress**
 
+Only issues and administreative work.
 
 **Thoughts**
+
+Someone got to do that too :)
 
