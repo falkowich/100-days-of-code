@@ -45,6 +45,9 @@
     - [Day 31: September 26, 2021](#day-31-september-26-2021)
     - [Day 32: September 27, 2021](#day-32-september-27-2021)
     - [Day 33: September 28, 2021](#day-33-september-28-2021)
+    - [Day 34: September 29, 2021](#day-34-september-29-2021)
+  - [Week 6](#week-6)
+    - [Day 35: September 30, 2021](#day-35-september-30-2021)
 
 ## Things I want to..
 
@@ -606,3 +609,31 @@ Ouput is finally sorted.
 **Thoughts**
 
 Finally, a rewrite of the output. With new pydantic ogjects and order_by in tortoise-orm
+
+### Day 34: September 29, 2021
+
+**Planned Today**
+
+Time to renew work on ise library
+
+**Today's Progress**
+
+N/A, only some scripting at work..
+
+**Thoughts**
+
+All work and no play makes Falk a dull boy..
+
+## Week 6
+
+### Day 35: September 30, 2021
+
+**Planned Today**
+
+Time to renew work on ise library
+
+**Today's Progress**
+
+
+**Thoughts**
+
