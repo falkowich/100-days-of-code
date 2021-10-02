@@ -48,6 +48,8 @@
     - [Day 34: September 29, 2021](#day-34-september-29-2021)
   - [Week 6](#week-6)
     - [Day 35: September 30, 2021](#day-35-september-30-2021)
+    - [Day 36: October 1, 2021](#day-36-october-1-2021)
+    - [Day 37: October 2, 2021](#day-37-october-2-2021)
 
 ## Things I want to..
 
@@ -640,3 +642,32 @@ Only issues and administreative work.
 
 Someone got to do that too :)
 
+### Day 36: October 1, 2021
+
+**Planned Today**
+
+Continued work on ise library
+
+**Today's Progress**
+
+Deforked with the help of github support
+
+**Thoughts**
+
+Ouch, this is scary stuff. Defork and rename
+
+### Day 37: October 2, 2021
+
+**Planned Today**
+
+Rename and recommit to PyPi
+
+**Today's Progress**
+
+Renamed repo, package and module to pyise-ers and pyiseers.  
+Merged two PR's, and worked started working on two other.
+
+**Thoughts**
+
+Total chaos with namechange, module change and PR's.  
+Namechange and modulechange with github and PyPi is under control, but I forgot that the PR's got broken when the modulename changed.  
