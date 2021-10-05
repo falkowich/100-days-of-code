@@ -50,6 +50,9 @@
     - [Day 35: September 30, 2021](#day-35-september-30-2021)
     - [Day 36: October 1, 2021](#day-36-october-1-2021)
     - [Day 37: October 2, 2021](#day-37-october-2-2021)
+    - [Day 38: October 3, 2021](#day-38-october-3-2021)
+    - [Day 39: October 4, 2021](#day-39-october-4-2021)
+    - [Day 40: October 5, 2021](#day-40-october-5-2021)
 
 ## Things I want to..
 
@@ -671,3 +674,46 @@ Merged two PR's, and worked started working on two other.
 
 Total chaos with namechange, module change and PR's.  
 Namechange and modulechange with github and PyPi is under control, but I forgot that the PR's got broken when the modulename changed.  
+
+### Day 38: October 3, 2021
+
+**Planned Today**
+
+Rename and recommit to PyPi
+
+**Today's Progress**
+
+Pushed changes to test.pypi.org
+
+**Thoughts**
+
+AAARHG..
+
+### Day 39: October 4, 2021
+
+**Planned Today**
+
+Rename and recommit to PyPi
+
+**Today's Progress**
+
+Nothing, had to do work@work sadly
+
+**Thoughts**
+
+N/A
+
+### Day 40: October 5, 2021
+
+**Planned Today**
+
+Rename and recommit to PyPi
+
+**Today's Progress**
+
+Commited to PyPi v 0.2.0.1 after a yank of 0.2.0 beq pebkac in setup.py
+
+**Thoughts**
+
+Maintenance is ..interesting.. Lets stay at that..
+But now it's done.. Perhaps more fun things can be done from now on.
