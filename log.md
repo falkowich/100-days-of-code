@@ -53,6 +53,7 @@
     - [Day 38: October 3, 2021](#day-38-october-3-2021)
     - [Day 39: October 4, 2021](#day-39-october-4-2021)
     - [Day 40: October 5, 2021](#day-40-october-5-2021)
+    - [Day 41: October 6, 2021](#day-41-october-6-2021)
 
 ## Things I want to..
 
@@ -717,3 +718,17 @@ Commited to PyPi v 0.2.0.1 after a yank of 0.2.0 beq pebkac in setup.py
 
 Maintenance is ..interesting.. Lets stay at that..
 But now it's done.. Perhaps more fun things can be done from now on.
+
+### Day 41: October 6, 2021
+
+**Planned Today**
+
+Start to get codecoverage on pyiser-ers
+
+**Today's Progress**
+
+68% codecoverage
+
+**Thoughts**
+
+Fun in the beginning, then not som much :)
