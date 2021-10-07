@@ -54,6 +54,8 @@
     - [Day 39: October 4, 2021](#day-39-october-4-2021)
     - [Day 40: October 5, 2021](#day-40-october-5-2021)
     - [Day 41: October 6, 2021](#day-41-october-6-2021)
+  - [Week 7](#week-7)
+    - [Day 42: October 7, 2021](#day-42-october-7-2021)
 
 ## Things I want to..
 
@@ -732,3 +734,19 @@ Start to get codecoverage on pyiser-ers
 **Thoughts**
 
 Fun in the beginning, then not som much :)
+
+## Week 7
+
+### Day 42: October 7, 2021
+
+**Planned Today**
+
+More codecoverage on pyiser-ers
+
+**Today's Progress**
+
+79% codecoverage
+
+**Thoughts**
+
+Friday should this be done.. Or it will be done on Friday, if nothing else that is more fun gets in the way :)
