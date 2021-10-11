@@ -56,6 +56,10 @@
     - [Day 41: October 6, 2021](#day-41-october-6-2021)
   - [Week 7](#week-7)
     - [Day 42: October 7, 2021](#day-42-october-7-2021)
+    - [Day 43: October 8, 2021](#day-43-october-8-2021)
+    - [Day 44: October 9, 2021](#day-44-october-9-2021)
+    - [Day 44: October 10, 2021](#day-44-october-10-2021)
+    - [Day 45: October 11, 2021](#day-45-october-11-2021)
 
 ## Things I want to..
 
@@ -750,3 +754,59 @@ More codecoverage on pyiser-ers
 **Thoughts**
 
 Friday should this be done.. Or it will be done on Friday, if nothing else that is more fun gets in the way :)
+
+### Day 43: October 8, 2021
+
+**Planned Today**
+
+More codecoverage on pyiser-ers
+
+**Today's Progress**
+
+Work got me really good..
+
+**Thoughts**
+
+Sadly, more work..
+
+### Day 44: October 9, 2021
+
+**Planned Today**
+
+More codecoverage on pyiser-ers
+
+**Today's Progress**
+
+Only repo management sadly
+
+**Thoughts**
+
+Meh
+
+### Day 44: October 10, 2021
+
+**Planned Today**
+
+More codecoverage on pyiser-ers
+
+**Today's Progress**
+
+Some work on the API, finishing touches to retire the old API :)
+
+**Thoughts**
+
+Not much codeing, only cleanup work.
+
+### Day 45: October 11, 2021
+
+**Planned Today**
+
+More codecoverage on pyiser-ers
+
+**Today's Progress**
+
+Pushed to master, and added codecov badge and [codecov.io/falkowich](https://app.codecov.io/gh/falkowich/pyise-ers)
+
+**Thoughts**
+
+This library is pretty big, so there is a lot to test.
