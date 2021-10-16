@@ -60,6 +60,12 @@
     - [Day 44: October 9, 2021](#day-44-october-9-2021)
     - [Day 44: October 10, 2021](#day-44-october-10-2021)
     - [Day 45: October 11, 2021](#day-45-october-11-2021)
+    - [Day 46: October 12, 2021](#day-46-october-12-2021)
+    - [Day 47: October 13, 2021](#day-47-october-13-2021)
+  - [Week 8](#week-8)
+    - [Day 48: October 14, 2021](#day-48-october-14-2021)
+    - [Day 49: October 15, 2021](#day-49-october-15-2021)
+    - [Day 50: October 16, 2021](#day-50-october-16-2021)
 
 ## Things I want to..
 
@@ -810,3 +816,75 @@ Pushed to master, and added codecov badge and [codecov.io/falkowich](https://app
 **Thoughts**
 
 This library is pretty big, so there is a lot to test.
+
+### Day 46: October 12, 2021
+
+**Planned Today**
+
+Start something new to test out.
+
+**Today's Progress**
+
+Work...
+
+**Thoughts**
+
+..meh..
+
+### Day 47: October 13, 2021
+
+**Planned Today**
+
+Start something new to test out.
+
+**Today's Progress**
+
+Work...
+
+**Thoughts**
+
+..meh..
+
+## Week 8
+
+### Day 48: October 14, 2021
+
+**Planned Today**
+
+Start something new to test out.
+
+**Today's Progress**
+
+Work...
+
+**Thoughts**
+
+..meh..
+
+### Day 49: October 15, 2021
+
+**Planned Today**
+
+Start something new to test out.
+
+**Today's Progress**
+
+Work, but Started out with batfish and pybatfish to check accesslists.
+
+**Thoughts**
+
+This was really fun, and a great framework to check out netops.
+
+### Day 50: October 16, 2021
+
+**Planned Today**
+
+More pyise-ers related stuff
+
+**Today's Progress**
+
+Solved a few bugs, and opend one new :)
+
+**Thoughts**
+
+lots of testing... lots of asserts
