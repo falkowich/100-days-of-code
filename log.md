@@ -66,6 +66,7 @@
     - [Day 48: October 14, 2021](#day-48-october-14-2021)
     - [Day 49: October 15, 2021](#day-49-october-15-2021)
     - [Day 50: October 16, 2021](#day-50-october-16-2021)
+    - [Day 51: October 17, 2021](#day-51-october-17-2021)
 
 ## Things I want to..
 
@@ -888,3 +889,17 @@ Solved a few bugs, and opend one new :)
 **Thoughts**
 
 lots of testing... lots of asserts
+
+### Day 51: October 17, 2021
+
+**Planned Today**
+
+Getting a custom aclchecker work with batfish
+
+**Today's Progress**
+
+First POC is done, going to test it out tomorrow @ work.
+
+**Thoughts**
+
+Batfish is really great for network testing. Before pushing stuff to prod.
