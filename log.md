@@ -894,7 +894,7 @@ lots of testing... lots of asserts
 
 **Planned Today**
 
-Getting a custom aclchecker work with batfish
+Getting a custom aclchecker to work with batfish
 
 **Today's Progress**
 
