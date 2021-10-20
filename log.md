@@ -67,6 +67,9 @@
     - [Day 49: October 15, 2021](#day-49-october-15-2021)
     - [Day 50: October 16, 2021](#day-50-october-16-2021)
     - [Day 51: October 17, 2021](#day-51-october-17-2021)
+    - [Day 52: October 18, 2021](#day-52-october-18-2021)
+    - [Day 53: October 19, 2021](#day-53-october-19-2021)
+    - [Day 54: October 20, 2021](#day-54-october-20-2021)
 
 ## Things I want to..
 
@@ -903,3 +906,47 @@ First POC is done, going to test it out tomorrow @ work.
 **Thoughts**
 
 Batfish is really great for network testing. Before pushing stuff to prod.
+
+### Day 52: October 18, 2021
+
+**Planned Today**
+
+Continue with "parse_acl"
+
+**Today's Progress**
+
+Fix the first POC changes, create a EXE for my windows colleagues
+
+**Thoughts**
+
+pyinstaller and auto_py_to_exe helped me bigtime here.  
+But with a single exe it takes some time to startup (unpacking all python stuff to a temp dir)
+
+### Day 53: October 19, 2021
+
+**Planned Today**
+
+Start to learn some pygame coding :)
+
+**Today's Progress**
+
+Feedback on parse-acl, fixed
+
+**Thoughts**
+
+Now we started to try this in prod (with manual control)
+
+### Day 54: October 20, 2021
+
+**Planned Today**
+
+Start to learn some pygame.. try II.
+
+**Today's Progress**
+
+Found Arcade that is built on pyglet.
+
+**Thoughts**
+
+Did a tutorial, and tomorrow I will try to do some changes and see if I cope with this kind of programming.  
+This is so much out of my normal comfort zone :)
