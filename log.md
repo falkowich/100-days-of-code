@@ -83,6 +83,10 @@
 - [ ] [Anvil](https://anvil.works/) - Full stack web apps with nothing but Python.
 - [ ] [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript.
 - [x] Ineractive debugging in vscode into docker dev » [here](#day-28-september-23-2021))
+- [ ] [Dear PyGui](https://github.com/hoffstadt/DearPyGui) is a simple to use (but powerful) Python GUI framework
+- [ ] Rust, try out some Rust stuff
+- [ ] Go, And why not try out some more GoLang
+- [ ] [htmx](https://htmx.org/) allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML
 
 ### learn more of
 
