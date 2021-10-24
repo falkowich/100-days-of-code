@@ -70,6 +70,11 @@
     - [Day 52: October 18, 2021](#day-52-october-18-2021)
     - [Day 53: October 19, 2021](#day-53-october-19-2021)
     - [Day 54: October 20, 2021](#day-54-october-20-2021)
+  - [Week 9](#week-9)
+    - [Day 55: October 21, 2021](#day-55-october-21-2021)
+    - [Day 56: October 22, 2021](#day-56-october-22-2021)
+    - [Day 57: October 23, 2021](#day-57-october-23-2021)
+    - [Day 58: October 24, 2021](#day-58-october-24-2021)
 
 ## Things I want to..
 
@@ -950,3 +955,62 @@ Found Arcade that is built on pyglet.
 
 Did a tutorial, and tomorrow I will try to do some changes and see if I cope with this kind of programming.  
 This is so much out of my normal comfort zone :)
+
+## Week 9
+
+### Day 55: October 21, 2021
+
+**Planned Today**
+
+Game of life - solution
+
+**Today's Progress**
+
+Check out different graphics framework
+
+**Thoughts**
+
+Comfort zone broken..
+
+### Day 56: October 22, 2021
+
+**Planned Today**
+
+Try out more arcade
+
+**Today's Progress**
+
+None whatsoever
+
+**Thoughts**
+
+It's really hard.. And I feel somewhat broken myself.
+
+### Day 57: October 23, 2021
+
+**Planned Today**
+
+Create a version of game of life.
+
+**Today's Progress**
+
+A working example with matplothlib.. Nothing fancy with pygame,pyglet or arcade :(
+
+**Thoughts**
+
+I'm no "game dev", that's fursur :)
+
+### Day 58: October 24, 2021
+
+**Planned Today**
+
+Clean up the gameoflife script
+
+**Today's Progress**
+
+Not much, tried to follow DRY, and move things into functions.
+
+**Thoughts**
+
+Looks better, but not as good as other implementations out there..  
+But it still works :D
