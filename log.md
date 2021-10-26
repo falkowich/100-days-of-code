@@ -75,6 +75,8 @@
     - [Day 56: October 22, 2021](#day-56-october-22-2021)
     - [Day 57: October 23, 2021](#day-57-october-23-2021)
     - [Day 58: October 24, 2021](#day-58-october-24-2021)
+    - [Day 59: October 25, 2021](#day-59-october-25-2021)
+    - [Day 60: October 26, 2021](#day-60-october-26-2021)
 
 ## Things I want to..
 
@@ -1018,3 +1020,32 @@ Not much, tried to follow DRY, and move things into functions.
 
 Looks better, but not as good as other implementations out there..  
 But it still works :D
+
+### Day 59: October 25, 2021
+
+**Planned Today**
+
+Worked on a fastapi project.. Quick and dirty :)
+
+**Today's Progress**
+
+Everything done on one night.
+
+**Thoughts**
+
+Fun, I really like typehinting..
+
+
+### Day 60: October 26, 2021
+
+**Planned Today**
+
+Continue with fastapi project.
+
+**Today's Progress**
+
+Worked with some basic python scripts that compared csv's and fetched stuff from an 3rd party api.
+
+**Thoughts**
+
+Not my code, just had to read it and change some things to make it living again :)
