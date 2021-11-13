@@ -77,6 +77,7 @@
     - [Day 58: October 24, 2021](#day-58-october-24-2021)
     - [Day 59: October 25, 2021](#day-59-october-25-2021)
     - [Day 60: October 26, 2021](#day-60-october-26-2021)
+    - [Day 61: November 14, 2021](#day-61-november-14-2021)
 
 ## Things I want to..
 
@@ -1049,3 +1050,19 @@ Worked with some basic python scripts that compared csv's and fetched stuff from
 **Thoughts**
 
 Not my code, just had to read it and change some things to make it living again :)
+
+### Day 61: November 14, 2021
+
+**Planned Today**
+
+Started a new FastAPI project. Hopefully this will be public soon. This will be the first project that is TDD first..
+
+**Today's Progress**
+
+Created a few endpoints with TDD workflow.
+
+**Thoughts**
+
+A few weeks of crazy much work that really hit hard. And I had no energy left to do code non work stuff..  
+Hopefully I can keep this up for 40 days more, I really need to do something else than blueteaming 24/7..  
+It went ok I guess, but sometimes I mess up the tests, so that the code works as it should. But the test fails beq ..pebkac.. :)  
