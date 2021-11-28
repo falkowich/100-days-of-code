@@ -80,6 +80,23 @@
     - [Day 61: November 14, 2021](#day-61-november-14-2021)
   - [Week 10](#week-10)
     - [Day 62: November 15, 2021](#day-62-november-15-2021)
+    - [Day 63: November 16, 2021](#day-63-november-16-2021)
+    - [Day 64: November 17, 2021](#day-64-november-17-2021)
+    - [Day 65: November 17, 2021](#day-65-november-17-2021)
+    - [Day 66: November 18, 2021](#day-66-november-18-2021)
+    - [Day 67: November 19, 2021](#day-67-november-19-2021)
+    - [Day 68: November 20, 2021](#day-68-november-20-2021)
+  - [Week 11](#week-11)
+    - [Day 69: November 21, 2021](#day-69-november-21-2021)
+    - [Day 70: November 22, 2021](#day-70-november-22-2021)
+    - [Day 71: November 23, 2021](#day-71-november-23-2021)
+    - [Day 72: November 23, 2021](#day-72-november-23-2021)
+    - [Day 73: November 24, 2021](#day-73-november-24-2021)
+    - [Day 74: November 25, 2021](#day-74-november-25-2021)
+    - [Day 75: November 26, 2021](#day-75-november-26-2021)
+  - [Week 12](#week-12)
+    - [Day 76: November 27, 2021](#day-76-november-27-2021)
+    - [Day 74: November 28, 2021](#day-74-november-28-2021)
 
 ## Things I want to..
 
@@ -1083,3 +1100,110 @@ Contionued with a few endpoints with TDD workflow.
 **Thoughts**
 
 After work until ~20 I got my hour in today too..
+
+### Day 63: November 16, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+**Today's Progress**
+
+Contionued with a few endpoints with TDD workflow.
+
+### Day 64: November 17, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 65: November 17, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 66: November 18, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 67: November 19, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 68: November 20, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+## Week 11
+
+### Day 69: November 21, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 70: November 22, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 71: November 23, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 72: November 23, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 73: November 24, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 74: November 25, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 75: November 26, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+## Week 12
+
+### Day 76: November 27, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+### Day 74: November 28, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+**Today's Progress**
+
+Contionued with a few endpoints with TDD workflow.
+
+**Thoughts**
+
+TDD starting to go sorta ok now.  
+Found a few bugs with this workflow.
