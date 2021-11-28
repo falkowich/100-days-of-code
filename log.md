@@ -96,7 +96,7 @@
     - [Day 75: November 26, 2021](#day-75-november-26-2021)
   - [Week 12](#week-12)
     - [Day 76: November 27, 2021](#day-76-november-27-2021)
-    - [Day 74: November 28, 2021](#day-74-november-28-2021)
+    - [Day 77: November 28, 2021](#day-77-november-28-2021)
 
 ## Things I want to..
 
@@ -1193,7 +1193,7 @@ Grind on with CRUD on fastapi inventory project
 
 Grind on with CRUD on fastapi inventory project
 
-### Day 74: November 28, 2021
+### Day 77: November 28, 2021
 
 **Planned**
 
