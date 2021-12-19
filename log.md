@@ -1207,3 +1207,18 @@ Contionued with a few endpoints with TDD workflow.
 
 TDD starting to go sorta ok now.  
 Found a few bugs with this workflow.
+
+
+### Day 78: November 28 - December 18, 2021
+
+**Planned**
+
+Grind on with CRUD on fastapi inventory project
+
+**Progress**
+
+None, only work, work and then some more work...
+
+**Thoughts**
+
+Please make it stop already...
