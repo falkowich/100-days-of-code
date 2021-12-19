@@ -97,6 +97,7 @@
   - [Week 12](#week-12)
     - [Day 76: November 27, 2021](#day-76-november-27-2021)
     - [Day 77: November 28, 2021](#day-77-november-28-2021)
+    - [Day 78: November 28 - December 18, 2021](#day-78-november-28---december-18-2021)
 
 ## Things I want to..
 
